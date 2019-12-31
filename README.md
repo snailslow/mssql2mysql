@@ -1,3 +1,10 @@
+# mssql2mysql-PHP7.x.php #
+[PHP mssql extension](http://php.net/manual/en/book.mssql.php) was REMOVED in PHP 7.0.0. 
+[SQLSRV](https://www.php.net/manual/en/intro.sqlsrv.php), an alternative extension for MS SQL connectivity is available from [Microsoft](http://msdn.microsoft.com/en-us/sqlserver/ff657782.aspx).
+
+
+forked from matriphe/mssql2mysql(https://github.com/matriphe/mssql2mysql)
+
 # mssql2mysql #
 
 Simple MSSQL Server to MySQL table converter using PHP CLI.
