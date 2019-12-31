@@ -1,5 +1,6 @@
 # mssql2mysql-PHP7.x.php #
 [PHP mssql extension](http://php.net/manual/en/book.mssql.php) was REMOVED in PHP 7.0.0. 
+
 [SQLSRV](https://www.php.net/manual/en/intro.sqlsrv.php), an alternative extension for MS SQL connectivity is available from [Microsoft](http://msdn.microsoft.com/en-us/sqlserver/ff657782.aspx).
 
 
